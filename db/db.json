@@ -1,0 +1,20 @@
+{
+  "creatures": [
+    {
+      "name": "Ancient Red Dragon",
+      "type": "dragon",
+      "cr": "24",
+      "hp": 546,
+      "alignment": "chaotic evil",
+      "id": 4
+    },
+    {
+      "name": "Zagral",
+      "type": "Undead Humanoid",
+      "cr": "15",
+      "hp": "150",
+      "alignment": "Lawful Evil",
+      "id": 5
+    }
+  ]
+}

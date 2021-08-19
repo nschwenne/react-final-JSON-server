@@ -1,0 +1,67 @@
+{ "creatures": [
+    {
+      "name": "Cloud Giant",
+      "cr": 9,
+      "type": "Giant",
+      "alignment": "Neutral good(50%) or neutral evil (50%)",
+      "hp": 200,
+      "id": 1
+    },
+    {
+      "name": "Fire Giant",
+      "cr": 9,
+      "type": "Giant",
+      "alignment": "Lawful Evil",
+      "hp": 162,
+      "id": 2
+    },
+    {
+      "name": "Frost Giant",
+      "cr": 8,
+      "type": "Giant",
+      "alignment": "Neutral Evil",
+      "hp": 138,
+      "id": 3
+    },
+    {
+      "name": "Hill Giant",
+      "cr": 5,
+      "type": "Giant",
+      "alignment": "Chaotic Evil",
+      "hp": 105,
+      "id": 4
+    },
+    {
+      "name": "Stone Giant",
+      "cr": 7,
+      "type": "Giant",
+      "alignment": "Neutral",
+      "hp": 126,
+      "id": 5
+    },
+    {
+      "name": "Storm Giant",
+      "cr": 13,
+      "type": "Giant",
+      "alignment": "Chaotic Good",
+      "hp": 230,
+      "id": 6
+    },
+    {
+      "name": "Zagral",
+      "type": "Undead Humanoid",
+      "cr": "15",
+      "hp": "150",
+      "alignment": "Lawful Evil",
+      "id": 7
+    },
+    {
+      "name": "NICK",
+      "type": "GOD",
+      "cr": "1000",
+      "hp": "10000000000",
+      "alignment": "ALL",
+      "id": 8
+    }
+  ]
+}
